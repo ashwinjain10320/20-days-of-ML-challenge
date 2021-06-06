@@ -1,1 +1,1 @@
-# 30-days-of-ML-challenge
+# 20-days-of-ML-challenge
